@@ -1,0 +1,18 @@
+{
+  "_instrucoes": "Copie este arquivo para escritorio.json e preencha com os dados do seu escritório. Não publique o escritorio.json preenchido.",
+  "escritorio": "Nome do Escritório Advogados",
+  "cidade_uf": "Cidade/UF",
+  "regiao_federal": "TRF da sua região (ex.: TRF4)",
+  "tribunal_estadual": "TJ do seu estado (ex.: TJRS)",
+  "tribunal_trabalho": "TRT da sua região (ex.: TRT4)",
+  "modelo_docx": "modelos/modelo-peticao.docx",
+  "fonte": "Times New Roman",
+  "tamanho_fonte": 12,
+  "recuo_primeira_linha_cm": 1.5,
+  "recuo_citacao_cm": 3.0,
+  "linhas_em_branco_apos_enderecamento": 10,
+  "fecho": "Nestes Termos, Pede Deferimento.",
+  "assinaturas": [
+    {"nome": "Nome do(a) Advogado(a)", "oab": "OAB/UF 000000"}
+  ]
+}
