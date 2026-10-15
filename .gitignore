@@ -1,0 +1,13 @@
+# Dados do escritório e de clientes — nunca publicar
+config/escritorio.json
+modelos/
+clientes/
+*.docx
+*.pdf
+!docs/**/*.pdf
+
+# Sistema
+__pycache__/
+.DS_Store
+Thumbs.db
+~$*
